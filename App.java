@@ -6,8 +6,6 @@ public class App
         Account fourat = new Account("Fourat", "Ben Salem", "A000001");
         
 
-        Account islem = new Account("Islem ","Bargui", "B000001");
-
-        islem.showMenu();
+        fourat.showMenu();
     }
 }
